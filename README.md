@@ -1,2 +1,2 @@
 # test-newrepo
-Repo for hireme
+test Repo
